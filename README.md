@@ -25,3 +25,37 @@ The methodology for this project involves several steps:
 7. **Song Prediction**: Finally, the code includes a function to predict if an input song is a hit in a given timeframe. This is done using the Spotify API to get the song's features and the trained logistic regression model to make the prediction.
 
    The methodology is implemented in Python using libraries such as pandas, numpy, matplotlib, seaborn, sklearn, and spotipy. The code is organized into functions, each performing a specific task, to make it modular and easy to understand.
+
+## Results
+
+The results are visualised using line graphs and heat maps for the main parameters. The project shows that popular music is becoming less variable and fairly predictable, meaning that performers do follow somefeatures.
+
+## Dependencies
+
+- Python
+- pandas
+- numpy
+- pickle
+- requests
+- matplotlib
+- seaborn
+- scikit-learn
+- psynlig
+- shap
+- statsmodels
+- spotipy
+
+## Usage
+
+To use this project, clone the repository to your local machine and run the Python script. The script will load the data, perform the analysis, and generate the plots.
+
+## Contributing
+
+Maxim Velli: Brainstorming, Data Extraction, Predictive Accuracy & Feature Correlation Analysis, Data Visualisation, Hit Predictor
+Eva Koskova: Brainstorming, SHAP Feature Importance Analysis, Artist Feature Trend Analysis
+Marc Santolini: Brainstorming, consultations
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
