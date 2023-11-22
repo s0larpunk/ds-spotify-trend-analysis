@@ -51,8 +51,8 @@ To use this project, clone the repository to your local machine and run the Pyth
 
 ## Contributing
 
-Maxim Velli: Brainstorming, Data Extraction, Predictive Accuracy & Feature Correlation Analysis, Data Visualisation, Hit Predictor
-Eva Koskova: Brainstorming, SHAP Feature Importance Analysis, Artist Feature Trend Analysis
+Maxim Velli: Brainstorming, Data Extraction, Predictive Accuracy & Feature Correlation Analysis, Data Visualisation, Hit Predictor\
+Eva Koskova: Brainstorming, SHAP Feature Importance Analysis, Artist Feature Trend Analysis\
 Marc Santolini: Brainstorming, consultations
 
 ## License
